@@ -262,6 +262,13 @@
 .three {
   width: 100%;
 }
+.center {
+  display: block;
+  max-width: 500px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .caption {
   height: 100%;
   color: $caption_color;
