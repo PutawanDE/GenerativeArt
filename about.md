@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.png">
+<img class="col one right" src="{{ site.baseurl }}/img/prof_pic.png">
 
 <br/>
 My name is Tanadol Deachprapakorn. My nickname is Phu. I am a high school student who has an interest in programming and software development. I got interested with generative art, recently. So, this is a place for me to keep and show my arts. 

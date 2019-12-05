@@ -1,11 +1,10 @@
 # Site settings
 title: GenerativeArt
-email: putawan-de@hotmail.co.th
+email: tanadol-de@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-baseurl:  https://putawande.github.io/GenerativeArt/
-url:  https://putawande.github.io/GenerativeArt/
-twitter_username: twitter_username
+baseurl:  https://putawande.github.io/GenerativeArt
+url:  https://putawande.github.io/GenerativeArt
 github_username:  PutawanDE
 
 #Host
