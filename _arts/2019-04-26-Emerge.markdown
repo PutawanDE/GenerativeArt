@@ -5,7 +5,7 @@ description: Something is emerging or exploding from the center.
 img: /img/Emerge-100-512.png
 ---
 
-<img class="center" src="{{ site.baseurl }}/img/Emerge-100-512.png">
+<img class="post-img" src="{{ site.baseurl }}/img/Emerge-100-512.png">
 
 <div class="col three description">
 Every lines were drawn from the center. The transparency and length of each line are random. This gives the image an appearance that something is emerging or exploding from the center.

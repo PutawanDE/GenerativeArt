@@ -129,8 +129,11 @@
   display: block;
   margin: 10px;
 }
-.center {
-  text-align: center;
+.post-img {
+  display: block;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
 }
 /**
 * Posts  **********************************************************
@@ -261,13 +264,6 @@
 }
 .three {
   width: 100%;
-}
-.center {
-  display: block;
-  max-width: 500px;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 .caption {
   height: 100%;
