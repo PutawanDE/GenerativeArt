@@ -5,7 +5,9 @@ description: An audio visualizer features dancing columns and background.
 img: /img/ImpulseVisualizer.png
 ---
 
-<img class="post-img" src="{{ site.baseurl }}/img/ImpulseVisualizer.png">
+<div class="post-img-container">
+    <img class="post-img" src="{{ site.baseurl }}/img/ImpulseVisualizer.png">
+</div>
 
 <div class="col three description">
 An audio visualizer features dancing columns and background.

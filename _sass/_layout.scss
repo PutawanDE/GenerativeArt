@@ -129,12 +129,7 @@
   display: block;
   margin: 10px;
 }
-.post-img {
-  display: block;
-  max-width: 950px;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 /**
 * Posts  **********************************************************
 */
@@ -177,6 +172,17 @@
 .post-link {
   display: block;
   font-size: 42px;
+}
+
+.post-img-container {
+  min-width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.post-img {
+  max-width: 100%;
 }
 
 /** Poem formatting ********************************************/
